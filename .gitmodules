@@ -1,0 +1,3 @@
+[submodule "basket"]
+	path = basket
+	url = ssh://git@github.com/basketware/basket

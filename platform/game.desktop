@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Basket Template
+Exec=io.github.basketware.template
+Icon=io.github.basketware.template
+Terminal=false
+Categories=Game;
+
+# And the universe said I love you because you are love.
